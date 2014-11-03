@@ -44,7 +44,7 @@
 				<key>fontStyle</key>
 				<string>italic  </string>
 				<key>foreground</key>
-				<string>#dedede</string>
+				<string>#c2c2c2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -55,7 +55,18 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#fec660</string>
+				<string>#ff8a00</string>
+			</dict>
+		</dict>
+    <dict>
+			<key>name</key>
+			<string>Operator</string>
+			<key>scope</key>
+			<string>keyword.operator</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ff8a00</string>
 			</dict>
 		</dict>
 		<dict>
@@ -68,7 +79,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#ff8a00</string>
+				<string>#fec660</string>
 			</dict>
 		</dict>
 		<dict>
