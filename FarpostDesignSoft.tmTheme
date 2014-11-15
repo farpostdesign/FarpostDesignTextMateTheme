@@ -295,10 +295,10 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>A227605D-F421-4CBE-B8ED-B7736AC3D97A</string>
+	<string>EC76274B-D242-4B46-9DDD-F0B322B82BFF</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.light.farpost_design</string>
+	<string>theme.light.farpost_design_soft</string>
 </dict>
 </plist>
