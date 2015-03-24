@@ -2,6 +2,14 @@
 This theme was create with [Farpost Design company](http://design.farpost.ru) colors by [Dmitry Shvetsov](https://github.com/shvetsovdm).
 For now it's optimized for Ruby, HTML, JS.
 
+## How to use
++ download zip archive
++ unzip
++ double click on FarpostDesignSoft.tmTheme file
++ select themes bundle and click ok
++ in menu View > Theme > FarpostDesign
++ star this repo
+
 ## Sreenshots
 
 ### HTML
